@@ -1,0 +1,4 @@
+Student name: P Namratha
+Register number: 01
+Department: CSE
+Marks: 85
